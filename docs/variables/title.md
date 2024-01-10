@@ -1,10 +1,17 @@
----
+ ---
 id: title
 ---
 
 # $(title)
 
 Returns the current stream title of a broadcaster's Twitch channel.
+---
+id: user.title
+---
+
+# $(user.title)
+
+Shows which stream title (from other users) has been created in the channel.
 
 #### Parameters
 
